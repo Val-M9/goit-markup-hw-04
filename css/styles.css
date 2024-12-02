@@ -177,7 +177,7 @@ img {
   transition: color var(--trns-fast);
 }
 
-.nav-link:first-child {
+.nav-item:first-child .nav-link {
   color: rgba(var(--accent-cl-active));
 }
 
